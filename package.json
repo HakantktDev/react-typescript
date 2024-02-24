@@ -1,5 +1,5 @@
 {
-  "name": "citr-v8-project",
+  "name": "adopt-me",
   "version": "8.0.0",
   "description": "Complete Intro to React v8 project",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "typecheck": "tsc --noEmit"
   },
   "keywords": [],
-  "author": "Brian Holt",
+  "author": "Hakan Tokat",
   "license": "ISC",
   "devDependencies": {
     "@types/react": "18.0.21",
